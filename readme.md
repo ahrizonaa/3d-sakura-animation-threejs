@@ -1,6 +1,6 @@
 ### requires parcel.js CLI
 
-[https://parceljs.org/]
+https://parceljs.org
 
 ### install:
 
