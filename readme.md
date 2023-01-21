@@ -1,3 +1,7 @@
+### requires parcel.js CLI
+
+[https://parceljs.org/]
+
 ### install:
 
 `npm i`
